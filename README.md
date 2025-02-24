@@ -1,8 +1,8 @@
-# NeuroPersona
+# NeuroCogent
 
 ## **Einführung**
 
-NeuroPersona ist ein einzigartiges KI-System, das auf den Prinzipien des menschlichen Gehirns basiert. Es simuliert kognitive Prozesse, um datengetriebene Entscheidungen zu treffen, Szenarien zu simulieren und kontextspezifische Informationen zu verarbeiten. Das System vereint mehrere spezialisierte Module – "Gehirne" –, die miteinander interagieren, um eine menschenähnliche Analyse- und Entscheidungsstruktur zu erzeugen.
+NeuroCogent ist ein einzigartiges KI-System, das auf den Prinzipien des menschlichen Gehirns basiert. Es simuliert kognitive Prozesse, um datengetriebene Entscheidungen zu treffen, Szenarien zu simulieren und kontextspezifische Informationen zu verarbeiten. Das System vereint mehrere spezialisierte Module – "Gehirne" –, die miteinander interagieren, um eine menschenähnliche Analyse- und Entscheidungsstruktur zu erzeugen.
 
 Dieses Modell wurde mit einem Fokus auf Modularität, Flexibilität und Effizienz entwickelt, sodass es auf verschiedene Anwendungsbereiche wie Marktforschung, psychologische Diagnostik, Verhaltensanalyse und Szenariosimulation angepasst werden kann.
 
@@ -21,7 +21,7 @@ Dieses Modell wurde mit einem Fokus auf Modularität, Flexibilität und Effizien
 
 ## **Systemarchitektur**
 
-NeuroPersona basiert auf einer modularen Struktur, die in mehrere spezialisierte Gehirnmodule unterteilt ist. Jedes Modul repräsentiert eine Funktionseinheit des Systems und übernimmt spezifische Aufgaben.
+NeuroCogent basiert auf einer modularen Struktur, die in mehrere spezialisierte Gehirnmodule unterteilt ist. Jedes Modul repräsentiert eine Funktionseinheit des Systems und übernimmt spezifische Aufgaben.
 
 ### **1. Cortex Creativus**
 - **Aufgabe:** Kreative Ideengenerierung.
@@ -66,7 +66,7 @@ NeuroPersona basiert auf einer modularen Struktur, die in mehrere spezialisierte
 ---
 
 ### **7. Gedächtnisarchitektur**
-NeuroPersona verfügt über eine dreistufige Gedächtnisarchitektur, die Informationen in Kurz-, Mittel- und Langzeitgedächtnis organisiert. Diese Ebenen ermöglichen eine realistische Modellierung von Vergessen, Lernen und Erinnern.
+NeuroCogent verfügt über eine dreistufige Gedächtnisarchitektur, die Informationen in Kurz-, Mittel- und Langzeitgedächtnis organisiert. Diese Ebenen ermöglichen eine realistische Modellierung von Vergessen, Lernen und Erinnern.
 
 - **Kurzzeitgedächtnis:** Speichert Informationen für kurze Zeiträume und vergisst schnell.
 - **Mittelfristiges Gedächtnis:** Übergangsstufe, in der wichtige Informationen länger behalten werden.
@@ -111,7 +111,7 @@ NeuroPersona verfügt über eine dreistufige Gedächtnisarchitektur, die Informa
 
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/kruemmel-python/NeuroPersona.git
+   git clone https://github.com/kruemmel-python/NeuroCogent.git
    ```
 2. Installiere die Abhängigkeiten:
    ```bash
@@ -142,10 +142,10 @@ NeuroPersona verfügt über eine dreistufige Gedächtnisarchitektur, die Informa
 ---
 
 #### **Unterschiedliche Tests**
-Das NeuroPersona-KI-System beweist in zwei grundverschiedenen Tests – der Umfrageauswertung und der Wirtschaftsanalyse –, dass es datengetriebene Analysen in Rekordzeit mit beeindruckender Präzision und Vielseitigkeit durchführen kann. Diese Dokumentation fasst die wichtigsten Erkenntnisse und Leistungen des Systems zusammen, um die Potenziale und Anwendungsmöglichkeiten zu verdeutlichen.
+Das NeuroCogent-KI-System beweist in zwei grundverschiedenen Tests – der Umfrageauswertung und der Wirtschaftsanalyse –, dass es datengetriebene Analysen in Rekordzeit mit beeindruckender Präzision und Vielseitigkeit durchführen kann. Diese Dokumentation fasst die wichtigsten Erkenntnisse und Leistungen des Systems zusammen, um die Potenziale und Anwendungsmöglichkeiten zu verdeutlichen.
 
 #### Vielseitigkeit und Flexibilität
-Das NeuroPersona-KI-System hat gezeigt, dass es in der Lage ist, verschiedene Arten von Analysen und Entscheidungsunterstützungen bereitzustellen, selbst in völlig unterschiedlichen Gebieten.
+Das NeuroCogent-KI-System hat gezeigt, dass es in der Lage ist, verschiedene Arten von Analysen und Entscheidungsunterstützungen bereitzustellen, selbst in völlig unterschiedlichen Gebieten.
 
 1. **Umfrageauswertung**:
    - **Ziel**: Entscheidung, ob ein Fitnessstudio gebaut werden sollte.
@@ -156,7 +156,7 @@ Das NeuroPersona-KI-System hat gezeigt, dass es in der Lage ist, verschiedene Ar
    - **Ergebnis**: Detaillierte Einblicke in Bereiche wie Einkommen, Infrastruktur, Nachhaltigkeit und Kaufkraft. Es lieferte nicht nur klare Ergebnisse, sondern zeigte auch spezifische Beziehungen zwischen den Kategorien auf.
 
 #### Effizienz
-Blitzschnelle Analysen: Innerhalb von nur 205 Sekunden pro Fall liefert NeuroPersona umfassende und fundierte Ergebnisse. Diese Geschwindigkeit ist ein beeindruckender Beweis für die Optimierung des Systems und dessen Fähigkeit, in Echtzeit verwertbare Erkenntnisse zu liefern.
+Blitzschnelle Analysen: Innerhalb von nur 205 Sekunden pro Fall liefert NeuroCogent umfassende und fundierte Ergebnisse. Diese Geschwindigkeit ist ein beeindruckender Beweis für die Optimierung des Systems und dessen Fähigkeit, in Echtzeit verwertbare Erkenntnisse zu liefern.
 
 #### Datenintegration und Tiefe
 Das System integriert mehrere Ebenen von Daten, um ein vollständiges Bild zu erstellen:
@@ -165,7 +165,7 @@ Das System integriert mehrere Ebenen von Daten, um ein vollständiges Bild zu er
 - **Textdaten**: Ergänzen fehlende Informationen und bieten Kontext zu den numerischen Ergebnissen.
 
 #### Praktische Anwendungsgebiete
-Das NeuroPersona-KI-System zeigt Potenzial für zahlreiche reale Anwendungsfälle:
+Das NeuroCogent-KI-System zeigt Potenzial für zahlreiche reale Anwendungsfälle:
 - **Marktanalyse**: Für Unternehmen, die neue Märkte erschließen oder Investitionsentscheidungen treffen möchten, wie z. B. die Analyse eines geeigneten Standorts für ein Fitnessstudio.
 - **Öffentliche Verwaltung**: Entscheidungshilfen bei Infrastrukturprojekten, basierend auf Bürgermeinungen und Datenanalysen.
 - **Strategische Planung**: Langfristige Wirtschaftsanalyse und Prognosen in verschiedenen Branchen.
@@ -176,12 +176,12 @@ Das NeuroPersona-KI-System zeigt Potenzial für zahlreiche reale Anwendungsfäll
 Ein bemerkenswerter Vorteil des Systems ist seine Fähigkeit, objektive und datengetriebene Entscheidungen zu treffen. Diese Eigenschaft minimiert subjektive Verzerrungen und ermöglicht eine transparente, nachvollziehbare Entscheidungsfindung.
 
 #### Zusammenfassung
-Das NeuroPersona-KI-System zeigt mit beeindruckender Geschwindigkeit und Präzision, wie ein einzelnes KI-System unterschiedliche Herausforderungen lösen kann. Seine Vielseitigkeit, Effizienz und Fähigkeit zur Integration unterschiedlicher Daten machen es zu einem idealen Werkzeug für Wissenschaftler, Unternehmen und Entscheidungsträger in vielen Bereichen. Es ist ein Beispiel dafür, wie weit KI bereits in der Lage ist, analytische Prozesse zu revolutionieren.
+Das NeuroCogent-KI-System zeigt mit beeindruckender Geschwindigkeit und Präzision, wie ein einzelnes KI-System unterschiedliche Herausforderungen lösen kann. Seine Vielseitigkeit, Effizienz und Fähigkeit zur Integration unterschiedlicher Daten machen es zu einem idealen Werkzeug für Wissenschaftler, Unternehmen und Entscheidungsträger in vielen Bereichen. Es ist ein Beispiel dafür, wie weit KI bereits in der Lage ist, analytische Prozesse zu revolutionieren.
 
 #### Fazit
-NeuroPersona setzt neue Maßstäbe und demonstriert, was möglich ist, wenn ein System nicht nur für spezifische Aufgaben programmiert wird, sondern flexibel und universell einsetzbar bleibt. Es revolutioniert analytische Prozesse auf eine Art, die selbst spezialisierte Systeme nicht erreichen können. 
+NeuroCogent setzt neue Maßstäbe und demonstriert, was möglich ist, wenn ein System nicht nur für spezifische Aufgaben programmiert wird, sondern flexibel und universell einsetzbar bleibt. Es revolutioniert analytische Prozesse auf eine Art, die selbst spezialisierte Systeme nicht erreichen können. 
 
-Mit seiner Kombination aus Geschwindigkeit, Tiefe der Analyse und Interdisziplinarität könnte NeuroPersona die Art und Weise, wie Organisationen Daten analysieren und Entscheidungen treffen, grundlegend verändern. Ob in der Gesundheitsforschung, der strategischen Planung oder der Sozialforschung – NeuroPersona ist nicht nur ein System, sondern der Prototyp einer neuen Klasse von Künstlicher Intelligenz.
+Mit seiner Kombination aus Geschwindigkeit, Tiefe der Analyse und Interdisziplinarität könnte NeuroCogent die Art und Weise, wie Organisationen Daten analysieren und Entscheidungen treffen, grundlegend verändern. Ob in der Gesundheitsforschung, der strategischen Planung oder der Sozialforschung – NeuroCogent ist nicht nur ein System, sondern der Prototyp einer neuen Klasse von Künstlicher Intelligenz.
 ---
 
 ## **Kontakt**
